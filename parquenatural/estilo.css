@@ -1,0 +1,8 @@
+body {font-family:'Lucida Sans Unicode'; width:900px; align-self: center;}
+h1 {text-align:center;letter-spacing:0.25em; word-spacing:0.40em;}
+.t1{color:mediumseagreen;}
+.t2{color:darkorange;}
+ul {text-align:left;}
+div {border: 1px solid black;padding-left: 50px; padding-right:50px;}
+h2 {color:olivedrab; border-bottom: 1px solid black;}
+h3 {color:orange;}
